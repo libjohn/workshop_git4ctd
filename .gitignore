@@ -16,6 +16,7 @@
 
 # RStudio files
 .Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -32,5 +33,9 @@ vignettes/*.pdf
 *.utf8.md
 *.knit.md
 
-# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
-rsconnect/
+# Census Key
+_census-key.Rmd
+
+# Geographies - Shapefiles
+*.zip
+.Rproj.user
