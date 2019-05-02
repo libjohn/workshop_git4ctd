@@ -15,7 +15,7 @@
 1. Above that, give your project a Name and Description
 1. Create Workspace
 
-## Quick Test of Git Environment Setup
+## Quick Test of Git Environment Setup (Optional)
 
 1. At C9 workspace (just created/opened)
 1. In the Bash Terminal:  `git --version`

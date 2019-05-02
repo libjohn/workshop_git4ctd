@@ -7,13 +7,9 @@ by [John Little](https://JohnLittle.info/)
 May 2, 2019
 
 License:  [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
-Creative Commons:  Attributuion, Non-Commercial
+Creative Commons:  Attribution, Non-Commercial
 
 ## https://is.gd/git4ctd
-
-## Resources
-
-- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Common Git Commands
 
@@ -27,4 +23,9 @@ Creative Commons:  Attributuion, Non-Commercial
 - `git push origin master`  # Send changes to remote repository (GitHub)
 - `git pull`                # Fetch and merge changes from remote repository
 - [More Information](https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html)
+- [Common Commands Examples/Explainded](http://guides.beanstalkapp.com/version-control/common-git-commands.html)
+
+## Resources
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
