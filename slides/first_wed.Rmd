@@ -1,0 +1,249 @@
+---
+title: "GitHub"
+subtitle: "Getting Started with a Productivity Tool"
+author: "John Little"
+date: "`r Sys.Date()`"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: 
+      - default
+      - default-fonts
+      - duke-blue
+      - hygge-duke
+      - libs/cc-fonts.css
+      - libs/figure-captions.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+class: center, middle
+
+# GitHub
+
+
+.justify-left[
+
+### \\'git,hub\\ noun
+
+1. A cloud-based service & website that enables collaboration on projects. 
+1. A site to store, manage, track and control code. 
+1. A **group project site** where *people* can *do whatever they want*.
+
+
+
+### \\'git\\
+
+*British* : n. A foolish person
+
+*Southern* : v. To Acquire
+
+*Torvalds* : n. A *Stupid* **Content Tracker**
+
+### \\`hub\\ noun
+
+A center of activity
+
+]
+
+???
+
+https://is.gd/gitwed
+
+http://people.duke.edu/~jrl/github_wednesday/#1
+
+https://gitlab.oit.duke.edu/john/presentation_1st-wednesday_github  (private Repo)
+
+---
+class: duke-orange
+background-image: url(https://blogs.library.duke.edu/bitstreams/files/2014/08/David.jpg)
+background-size: contain
+
+---
+class: duke-softblue, center, middle
+
+# What
+
+---
+class: middle
+
+## Social Coding Site
+
+- Version Control for your files / documents / projects 
+
+- Social Coding for collaboration
+
+---
+class: duke-softblue, center, middle
+
+# Why
+
+
+**Git** for version control
+
+**GitHub** for collaboration, project management, and profile features
+
+---
+class: middle
+
+## Version Control
+
+- Works with **any files**.  Not just code (PDF, MS Office files, PNG, .Gif, .CSV, etc.)
+- Local **directories** are **Projects** are  **Repositories**
+- Can share a repo without GitHub
+- [Git Large File Storage](https://git-lfs.github.com/) (GLFS)
+- Roll back in time
+- **Fork It**
+
+---
+class: middle
+
+### Collaboration & Sociality
+
+Bullet Proof Collaboration (Conflict Resolution)
+
+- Collaborate with Permissions
+- Pull Request Collaboration
+- Anyone can collaborate when it's public
+- Decision to accept is always up to the project owner(s)
+
+---
+class: middle
+
+### But Wait, There's More
+
+#### Markdown
+
+- **Reproducible**: Easy, fast, clean, portable, migratable, flexible, fits any workflow, rendering is separate from content (can generate multiple and various reports)
+- Works with **all the Cool Tools**:  Social Coding sites, Evernote, WordPress, Gmail, Google Groups, To-Do lists, Wikis, stackedit.io (note tool)
+- **Easy on the Eyes** 
+
+---
+class: middle
+
+### GitHub Repository Features
+
+- [Issue Tracking](https://guides.github.com/features/issue):  Assignment, Milestones, Labels
+
+- [Wiki](https://help.github.com/en/articles/t-wikis): Documentation, Overviews, Commentary
+
+- [Project Boards](https://help.github.com/en/articles/about-pro-boards)
+
+    - Point and drag tiles (cards)
+    - Cards can be made from issues, pull requests, notes
+    - Link within and across GitHub repositories
+
+---
+class: middle, center
+
+#### Project Boards
+
+![GitHub Project Board](https://github.blog/wp-content/uploads/2017/12/30507009-901999c2-9a4e-11e7-89c6-041c68b85d8c.gif?resize=1360%2C600 "GitHub Project Board") 
+
+.pull-left[.tiny[.footnote[ https://github.blog/2017-12-12-introducing-github-enterprise-2-12/]]
+]
+
+---
+class:  middle
+
+### Presentation (There's Even More...)
+
+- Private or Public repos
+- Personal Profile pages
+- Organizational pages
+
+---
+class: duke-softblue, center, middle
+
+## Where
+
+---
+class: middle
+
+### Social Coding Sites
+
+- GitHub -- https://github.com
+
+- GitLab -- https://gitlab.com
+
+- BitBucket -- https://bitbucket.org 
+
+- **Duke's** GitLab -- https://gitlab.oit.duke.edu
+
+---
+class: duke-softblue, center, middle
+
+## How
+
+---
+class: middle
+
+### Git Clients
+
+- GitKracken -- https://www.gitkraken.com/ .tiny[($$/month)]
+
+- Sublime Merge -- https://www.sublimemerge.com/ .tiny[($/year)]
+
+- SourceTree -- https://www.sourcetreeapp.com/
+
+- RStudio -- https://www.rstudio.com/
+
+### Training
+
+- Workshop:  [Version Control, Git/GitHub](https://rfun.library.duke.edu/portfolio/git_workshop/)
+
+
+
+---
+
+# John Little
+
+&nbsp;
+
+.pull-left[.full-width[.content-box-green[
+### Data Science Librarian
+
+- [https://JohnLittle.info](https://johnlittle.info/)
+
+- https://github.com/libjohn
+]]
+
+### Rfun host...
+You can make **Rfun** with our resources for R and data science analytics.  See the [R we having fun yet‽](https://rfun.library.duke.edu/) resource pages.
+]
+
+.pull-right[.content-box-grey[
+### Duke University
+
+**Data & Visualization Services**
+
+- https://library.duke.edu/data/
+- askData@Duke.edu
+- The /Edge, Bostock (1st Floor)
+- [Past Workshops](https://library.duke.edu/data/news/past-workshops)
+- [Guides & Tutorials](https://library.duke.edu/data/tutorials)
+
+]]
+
+
+
+
+---
+class: center, middle
+## Shareable 
+
+Data, presentation, and handouts 
+
+<span class="cc">
+<!-- Key: a: SA, b: BY, c: CC Circle, d: ND, n: NC, m: Sampling, s: Share, r: Remix, C: CC Full Logo -->
+C bn
+</span>
+
+
+[CC BY-NC license](https://creativecommons.org/licenses/by-nc/4.0/)
+
+
