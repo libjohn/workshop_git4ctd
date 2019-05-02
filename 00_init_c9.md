@@ -8,7 +8,7 @@
 
 ## Clone A Repository
 
-1. Copy an SSH style GitHub Repository Address into your clipboard
+1. Copy an SSH style GitHub Repository Address into your clipboard  (e.g. start here:  https://is.gd/git4ctd)
 1. At C9 Dashboard
 1. Add a new workspace
 1. Paste the GitHub repo address into the *Clone from Git or Mercurial URL* textbox  
