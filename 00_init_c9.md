@@ -11,7 +11,9 @@
 1. Copy an SSH style GitHub Repository Address into your clipboard
 1. At C9 Dashboard
 1. Add a new workspace
-1. Paste the GitHub repo address into the *Clone from Git or Mercurial URL* textbox
+1. Paste the GitHub repo address into the *Clone from Git or Mercurial URL* textbox  
+
+    - Use SSH `git@github.com:libjohn/workshop_git4ctd.git`
 1. Above that, give your project a Name and Description
 1. Create Workspace
 
