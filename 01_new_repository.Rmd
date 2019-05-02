@@ -1,4 +1,4 @@
-# Make a New Repository 
+## Make a New Repository 
 
 1. Login to GitHub
 1. Click the **+** in the upper-right header > New repository
