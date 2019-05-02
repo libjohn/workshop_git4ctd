@@ -1,6 +1,6 @@
 # README
 
-** Version Control & Social Coding ** presentation for https://CodeTheDream.org
+**Version Control & Social Coding** presentation for https://CodeTheDream.org
 
 by [John Little](https://JohnLittle.info/)
 
